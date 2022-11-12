@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if(TempData["msg"] != null)
+{
+    @TempData["msg"];
+}
+
+<form method="post" action="">
+    Name: <input type="text" name="Name" />
+    @Html.ValidationMessage("Name") <br />
+    <input type="submit" value="Submit" />
+</form>

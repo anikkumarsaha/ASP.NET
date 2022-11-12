@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "AllEmployee";
+}
+
+<h2>AllEmployee</h2>
+
+
+<table>
+    <tr>
+        <td>ID</td>
+        <td>Name</td>
+        <td>Details</td>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td><a href="/Employee/OneEmployee/@item.Id">Show Details</a></td>
+        </tr>
+    }
+</table>

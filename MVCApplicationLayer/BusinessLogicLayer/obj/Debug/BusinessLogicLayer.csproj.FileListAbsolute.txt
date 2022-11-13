@@ -1,0 +1,12 @@
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojAssemblyReference.cache
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll.config
+E:\ASP.NET\MVCApplicationLayer\BusinessLogicLayer\bin\Debug\EntityFramework.xml

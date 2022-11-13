@@ -1,0 +1,14 @@
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\ConsoleApplicationLayer.exe.config
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\ConsoleApplicationLayer.exe
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\ConsoleApplicationLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\BusinessLogicLayer.dll
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\DataAccessLayer.dll
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\EntityFramework.dll
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\DataAccessLayer.pdb
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\DataAccessLayer.dll.config
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\bin\Debug\EntityFramework.xml
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\obj\Debug\ConsoleApplicationLayer.csproj.CoreCompileInputs.cache
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\obj\Debug\ConsoleApplicationLayer.csproj.CopyComplete
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\obj\Debug\ConsoleApplicationLayer.exe
+E:\ASP.NET\MVCApplicationLayer\ConsoleApplicationLayer\obj\Debug\ConsoleApplicationLayer.pdb

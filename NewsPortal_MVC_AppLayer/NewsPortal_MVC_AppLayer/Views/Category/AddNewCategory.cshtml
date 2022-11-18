@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "AddNewCategory";
+}
+
+<h2>AddNewCategory</h2>
+
+<form action="" method="post">
+    <input type="text" name="Name" class="form-control" placeholder="Name" />
+    @Html.ValidationMessage("Name") <br />
+    <br />
+    <input type="submit" class="btn btn-info" value="Confirm" />
+</form>

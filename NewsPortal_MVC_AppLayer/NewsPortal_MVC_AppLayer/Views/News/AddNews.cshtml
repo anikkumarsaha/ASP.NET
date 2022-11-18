@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "AddNews";
+}
+
+<h2>AddNews</h2>
+
+<form action="" method="post">
+    <input type="text" name="Title" class="form-control" placeholder="Title" />
+    @Html.ValidationMessage("Title") <br />
+    <br />
+    <input type="text" name="CategoryId" class="form-control" placeholder="CategoryId" />
+    @Html.ValidationMessage("CategoryId") <br />
+    <br />
+    <input type="date" name="Date" class="form-control" />
+    @Html.ValidationMessage("Date") <br />
+    <br />
+    <input type="submit" class="btn btn-info" value="Confirm" />
+</form>

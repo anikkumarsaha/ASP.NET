@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@if (TempData["msg"] != null)
+{
+    @TempData["msg"];
+}
+
+<form action="" method="post">
+    <input type="hidden" value="@Model.Id" name="Id" />
+    <input type="text" name="Title" value="@Model.Title" class="form-control" placeholder="Title" />
+    <input type="text" name="CategoryId" value="@Model.CategoryId" class="form-control" placeholder="Category Id" />
+    <input type="date" name="Date" value="@Model.Date" class="form-control" />
+    <input type="submit" class="btn btn-success" value="Edit" />
+</form>

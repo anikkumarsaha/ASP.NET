@@ -1,0 +1,10 @@
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\bin\Debug\NewsPortal_DataAccessLayer.dll.config
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\bin\Debug\NewsPortal_DataAccessLayer.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\bin\Debug\NewsPortal_DataAccessLayer.pdb
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\bin\Debug\EntityFramework.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\bin\Debug\EntityFramework.xml
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\obj\Debug\NewsPortal_DataAccessLayer.csprojAssemblyReference.cache
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\obj\Debug\NewsPortal_DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\obj\Debug\NewsPortal_DataAccessLayer.csproj.CopyComplete
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\obj\Debug\NewsPortal_DataAccessLayer.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_DataAccessLayer\obj\Debug\NewsPortal_DataAccessLayer.pdb

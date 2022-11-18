@@ -1,0 +1,12 @@
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\NewsPortal_BusinessLogicLayer.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\NewsPortal_BusinessLogicLayer.pdb
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\obj\Debug\NewsPortal_BusinessLogicLayer.csprojAssemblyReference.cache
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\obj\Debug\NewsPortal_BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\obj\Debug\NewsPortal_BusinessLogicLayer.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\obj\Debug\NewsPortal_BusinessLogicLayer.pdb
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\NewsPortal_DataAccessLayer.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\EntityFramework.dll
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\NewsPortal_DataAccessLayer.pdb
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\NewsPortal_DataAccessLayer.dll.config
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\bin\Debug\EntityFramework.xml
+E:\ASP.NET\NewsPortal_MVC_AppLayer\NewsPortal_BusinessLogicLayer\obj\Debug\NewsPortal_BusinessLogicLayer.csproj.CopyComplete

@@ -1,0 +1,14 @@
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\BLL.dll
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\BLL.pdb
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\DAL.dll
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\DAL.pdb
+E:\ASP.NET\BloodDonation\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+E:\ASP.NET\BloodDonation\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BloodDonation\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\ASP.NET\BloodDonation\BLL\obj\Debug\BLL.dll
+E:\ASP.NET\BloodDonation\BLL\obj\Debug\BLL.pdb
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\AutoMapper.dll
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\EntityFramework.dll
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\DAL.dll.config
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\AutoMapper.xml
+E:\ASP.NET\BloodDonation\BLL\bin\Debug\EntityFramework.xml
